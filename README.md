@@ -15,3 +15,8 @@ https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://dennisba
 https://dennisbay.github.io/Akiviteter-3P-Skolen/msn-online-kursus-online.ics
 
 https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://dennisbay.github.io/Akiviteter-3P-Skolen/msn-online-kursus-online.ics&view=month&language=da
+
+
+https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/3p-skolen-coachingcaf%C3%A9-online.ics
+
+
