@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+LAST-MODIFIED:20260520T090227Z
+METHOD:PUBLISH
+PRODID:-//DB Engineering//Aktiviteter 3P Skolen//DA
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+VERSION:2.0
+X-PUBLISHED-TTL:PT1H
+X-WR-CALDESC:Aktivitetskalender for 3P Skolen - Grunduddannelse - Fyn
+X-WR-CALNAME:3P Skolen - Grunduddannelse - Fyn
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+X-LIC-LOCATION:Europe/Copenhagen
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20260520T090227Z
+DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Fyn\nUnd
+ er kategori: 1. modul\nKilde: Aktiviteter 1 række 17
+DTEND;TZID=Europe/Copenhagen:20260912T150000
+DTSTAMP:20260520T090227Z
+DTSTART;TZID=Europe/Copenhagen:20260910T160000
+LAST-MODIFIED:20260520T090227Z
+LOCATION:Fyn
+SEQUENCE:0
+SUMMARY:1. modul
+UID:3p-skolengrunduddannelsefyn1-modul2026-09-10t160000-00000002026-09-12t1
+ 50000-0000000aktiviteter-117@aktiviteter-3p-skolen
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260520T090227Z
+DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Fyn\nUnd
+ er kategori: 2. modul\nKilde: Aktiviteter 1 række 18
+DTEND;TZID=Europe/Copenhagen:20261010T150000
+DTSTAMP:20260520T090227Z
+DTSTART;TZID=Europe/Copenhagen:20261008T160000
+LAST-MODIFIED:20260520T090227Z
+LOCATION:Fyn
+SEQUENCE:0
+SUMMARY:2. modul
+UID:3p-skolengrunduddannelsefyn2-modul2026-10-08t160000-00000002026-10-10t1
+ 50000-0000000aktiviteter-118@aktiviteter-3p-skolen
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260520T090227Z
+DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Fyn\nUnd
+ er kategori: 3. modul\nKilde: Aktiviteter 1 række 19
+DTEND;TZID=Europe/Copenhagen:20261107T150000
+DTSTAMP:20260520T090227Z
+DTSTART;TZID=Europe/Copenhagen:20261105T160000
+LAST-MODIFIED:20260520T090227Z
+LOCATION:Fyn
+SEQUENCE:0
+SUMMARY:3. modul
+UID:3p-skolengrunduddannelsefyn3-modul2026-11-05t160000-00000002026-11-07t1
+ 50000-0000000aktiviteter-119@aktiviteter-3p-skolen
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260520T090227Z
+DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Fyn\nUnd
+ er kategori: 4. modul\nKilde: Aktiviteter 1 række 20
+DTEND;TZID=Europe/Copenhagen:20261205T150000
+DTSTAMP:20260520T090227Z
+DTSTART;TZID=Europe/Copenhagen:20261203T160000
+LAST-MODIFIED:20260520T090227Z
+LOCATION:Fyn
+SEQUENCE:0
+SUMMARY:4. modul
+UID:3p-skolengrunduddannelsefyn4-modul2026-12-03t160000-00000002026-12-05t1
+ 50000-0000000aktiviteter-120@aktiviteter-3p-skolen
+END:VEVENT
+END:VCALENDAR
