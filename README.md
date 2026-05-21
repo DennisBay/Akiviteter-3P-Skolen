@@ -1,22 +1,29 @@
 # Akiviteter-3P-Skolen
 
-## 3p-skolen coachingcafé
-https://dennisbay.github.io/Aktiviteter-3P-Skolen/3p-skolen-coachingcafé-online.ics
+## 3P - Skolen Coaching uddannelse jylland
+https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/coach-jylland.ics
 
-https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://dennisbay.github.io/Akiviteter-3P-Skolen/3p-skolen-coachingcafé-online.ics&view=month&language=da
+https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/coach-jylland.ics&view=month&language=da
 
-## 3p-skolen coachuddannelse jylland
-https://dennisbay.github.io/Akiviteter-3P-Skolen/3p-skolen-coachuddannelse-jylland.ics
+## 3P-Skolen coachuddannelse Udsholdt
+https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/coach-udsholdt.ics
 
-https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://dennisbay.github.io/Akiviteter-3P-Skolen/3p-skolen-coachuddannelse-jylland.ics&view=month&language=da
+https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/coach-udsholdt.ics&view=month&language=da
+
+## 3P-Skolen Coaching Café
+https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/coachingcafe.ics
+
+https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/coachingcafe.ics&view=month&language=da
+
+## 3P-Skolen Grunduddannelse
+https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/grunduddannelse.ics
+
+https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/grunduddannelse.ics&view=month&language=da
 
 
 ## Mentalsundhed.nu Online kurser
-https://dennisbay.github.io/Akiviteter-3P-Skolen/msn-online-kursus-online.ics
+https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/msn.ics
 
-https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://dennisbay.github.io/Akiviteter-3P-Skolen/msn-online-kursus-online.ics&view=month&language=da
-
-
-https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/3p-skolen-coachingcaf%C3%A9-online.ics
+https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://github.com/DennisBay/Akiviteter-3P-Skolen/blob/main/msn.ics&view=month&language=da
 
 
