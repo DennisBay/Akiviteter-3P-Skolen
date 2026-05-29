@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 METHOD:PUBLISH
 PRODID:-//DB Engineering//Aktiviteter 3P Skolen//DA
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
@@ -14,13 +14,13 @@ TZID:Europe/Copenhagen
 X-LIC-LOCATION:Europe/Copenhagen
 END:VTIMEZONE
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Udsholdt
  \nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 4
 DTEND;TZID=Europe/Copenhagen:20260516T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20260514T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:3. modul
@@ -28,13 +28,13 @@ UID:3p-skolengrunduddannelseudsholdt3-modul2026-05-14t160000-00000002026-05
  -16t150000-0000000aktiviteter-14@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Udsholdt
  \nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 5
 DTEND;TZID=Europe/Copenhagen:20260613T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20260611T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:4. modul
@@ -42,185 +42,185 @@ UID:3p-skolengrunduddannelseudsholdt4-modul2026-06-11t160000-00000002026-06
  -13t150000-0000000aktiviteter-15@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Udsholdt
- \nUnder kategori: 3. webinar\nKilde: Aktiviteter 1 række 15
+ \nUnder kategori: 3. webinar\nKilde: Aktiviteter 1 række 16
 DTEND;TZID=Europe/Copenhagen:20260818T210000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20260818T193000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:3. webinar
 UID:3p-skolengrunduddannelseudsholdt3-webinar2026-08-18t193000-00000002026-
- 08-18t210000-0000000aktiviteter-115@aktiviteter-3p-skolen
+ 08-18t210000-0000000aktiviteter-116@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Fyn\nUnd
- er kategori: 1. modul\nKilde: Aktiviteter 1 række 16
+ er kategori: 1. modul\nKilde: Aktiviteter 1 række 17
 DTEND;TZID=Europe/Copenhagen:20260912T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20260910T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Fyn
 SEQUENCE:0
 SUMMARY:1. modul
 UID:3p-skolengrunduddannelsefyn1-modul2026-09-10t160000-00000002026-09-12t1
- 50000-0000000aktiviteter-116@aktiviteter-3p-skolen
+ 50000-0000000aktiviteter-117@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Udsholdt
- \nUnder kategori: 1. modul\nKilde: Aktiviteter 1 række 20
+ \nUnder kategori: 1. modul\nKilde: Aktiviteter 1 række 21
 DTEND;TZID=Europe/Copenhagen:20260919T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20260917T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:1. modul
 UID:3p-skolengrunduddannelseudsholdt1-modul2026-09-17t160000-00000002026-09
- -19t150000-0000000aktiviteter-120@aktiviteter-3p-skolen
+ -19t150000-0000000aktiviteter-121@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Fyn\nUnd
- er kategori: 2. modul\nKilde: Aktiviteter 1 række 17
+ er kategori: 2. modul\nKilde: Aktiviteter 1 række 18
 DTEND;TZID=Europe/Copenhagen:20261010T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20261008T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Fyn
 SEQUENCE:0
 SUMMARY:2. modul
 UID:3p-skolengrunduddannelsefyn2-modul2026-10-08t160000-00000002026-10-10t1
- 50000-0000000aktiviteter-117@aktiviteter-3p-skolen
+ 50000-0000000aktiviteter-118@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Udsholdt
- \nUnder kategori: 2. modul\nKilde: Aktiviteter 1 række 21
+ \nUnder kategori: 2. modul\nKilde: Aktiviteter 1 række 22
 DTEND;TZID=Europe/Copenhagen:20261017T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20261015T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:2. modul
 UID:3p-skolengrunduddannelseudsholdt2-modul2026-10-15t160000-00000002026-10
- -17t150000-0000000aktiviteter-121@aktiviteter-3p-skolen
+ -17t150000-0000000aktiviteter-122@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Fyn\nUnd
- er kategori: 3. modul\nKilde: Aktiviteter 1 række 18
+ er kategori: 3. modul\nKilde: Aktiviteter 1 række 19
 DTEND;TZID=Europe/Copenhagen:20261107T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20261105T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Fyn
 SEQUENCE:0
 SUMMARY:3. modul
 UID:3p-skolengrunduddannelsefyn3-modul2026-11-05t160000-00000002026-11-07t1
- 50000-0000000aktiviteter-118@aktiviteter-3p-skolen
+ 50000-0000000aktiviteter-119@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Udsholdt
- \nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 22
+ \nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 23
 DTEND;TZID=Europe/Copenhagen:20261114T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20261112T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:3. modul
 UID:3p-skolengrunduddannelseudsholdt3-modul2026-11-12t160000-00000002026-11
- -14t150000-0000000aktiviteter-122@aktiviteter-3p-skolen
+ -14t150000-0000000aktiviteter-123@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Fyn\nUnd
- er kategori: 4. modul\nKilde: Aktiviteter 1 række 19
+ er kategori: 4. modul\nKilde: Aktiviteter 1 række 20
 DTEND;TZID=Europe/Copenhagen:20261205T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20261203T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Fyn
 SEQUENCE:0
 SUMMARY:4. modul
 UID:3p-skolengrunduddannelsefyn4-modul2026-12-03t160000-00000002026-12-05t1
- 50000-0000000aktiviteter-119@aktiviteter-3p-skolen
+ 50000-0000000aktiviteter-120@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Udsholdt
- \nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 23
+ \nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 24
 DTEND;TZID=Europe/Copenhagen:20261212T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20261210T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:4. modul
 UID:3p-skolengrunduddannelseudsholdt4-modul2026-12-10t160000-00000002026-12
- -12t150000-0000000aktiviteter-123@aktiviteter-3p-skolen
+ -12t150000-0000000aktiviteter-124@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Jylland\
- nUnder kategori: 1. modul\nKilde: Aktiviteter 1 række 24
+ nUnder kategori: 1. modul\nKilde: Aktiviteter 1 række 25
 DTEND;TZID=Europe/Copenhagen:20270320T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20270318T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Jylland
 SEQUENCE:0
 SUMMARY:1. modul
 UID:3p-skolengrunduddannelsejylland1-modul2027-03-18t160000-00000002027-03-
- 20t150000-0000000aktiviteter-124@aktiviteter-3p-skolen
+ 20t150000-0000000aktiviteter-125@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Jylland\
- nUnder kategori: 2. modul\nKilde: Aktiviteter 1 række 25
+ nUnder kategori: 2. modul\nKilde: Aktiviteter 1 række 26
 DTEND;TZID=Europe/Copenhagen:20270410T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20270408T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Jylland
 SEQUENCE:0
 SUMMARY:2. modul
 UID:3p-skolengrunduddannelsejylland2-modul2027-04-08t160000-00000002027-04-
- 10t150000-0000000aktiviteter-125@aktiviteter-3p-skolen
+ 10t150000-0000000aktiviteter-126@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Jylland\
- nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 26
+ nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 27
 DTEND;TZID=Europe/Copenhagen:20270515T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20270513T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Jylland
 SEQUENCE:0
 SUMMARY:3. modul
 UID:3p-skolengrunduddannelsejylland3-modul2027-05-13t160000-00000002027-05-
- 15t150000-0000000aktiviteter-126@aktiviteter-3p-skolen
+ 15t150000-0000000aktiviteter-127@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260521T065718Z
+CREATED:20260529T114001Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Grunduddannelse\nLokation: Jylland\
- nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 27
+ nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 28
 DTEND;TZID=Europe/Copenhagen:20270612T150000
-DTSTAMP:20260521T065718Z
+DTSTAMP:20260529T114001Z
 DTSTART;TZID=Europe/Copenhagen:20270610T160000
-LAST-MODIFIED:20260521T065718Z
+LAST-MODIFIED:20260529T114001Z
 LOCATION:Jylland
 SEQUENCE:0
 SUMMARY:4. modul
 UID:3p-skolengrunduddannelsejylland4-modul2027-06-10t160000-00000002027-06-
- 12t150000-0000000aktiviteter-127@aktiviteter-3p-skolen
+ 12t150000-0000000aktiviteter-128@aktiviteter-3p-skolen
 END:VEVENT
 END:VCALENDAR
