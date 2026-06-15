@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+LAST-MODIFIED:20260615T160143Z
+METHOD:PUBLISH
+PRODID:-//DB Engineering//Aktiviteter 3P Skolen//DA
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+VERSION:2.0
+X-PUBLISHED-TTL:PT1H
+X-WR-CALDESC:Aktivitetskalender for FraIntellekt
+X-WR-CALNAME:FraIntellekt
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+X-LIC-LOCATION:Europe/Copenhagen
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20260615T160143Z
+DESCRIPTION:Firma: 3P Skolen\nKategori: Fra intellektuel forståelse til dy
+ be indsigter\nLokation: Online\nUnder kategori: 1\nBeskrivelse: Miriam & S
+ tinne\nKilde: Aktiviteter 1 række 118
+DTEND;TZID=Europe/Copenhagen:20260827T210000
+DTSTAMP:20260615T160143Z
+DTSTART;TZID=Europe/Copenhagen:20260827T193000
+LAST-MODIFIED:20260615T160143Z
+LOCATION:Online
+SEQUENCE:0
+SUMMARY:Fra intellektuel forståelse til dybe indsigter-Online-1
+UID:3p-skolenfra-intellektuel-forstaaelse-til-dybe-indsigteronline12026-08-
+ 27t193000-00000002026-08-27t210000-0000000aktiviteter-1118@aktiviteter-3p-
+ skolen
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260615T160143Z
+DESCRIPTION:Firma: 3P Skolen\nKategori: Fra intellektuel forståelse til dy
+ be indsigter\nLokation: Online\nUnder kategori: 2\nBeskrivelse: Miriam & S
+ tinne\nKilde: Aktiviteter 1 række 119
+DTEND;TZID=Europe/Copenhagen:20260903T210000
+DTSTAMP:20260615T160143Z
+DTSTART;TZID=Europe/Copenhagen:20260903T193000
+LAST-MODIFIED:20260615T160143Z
+LOCATION:Online
+SEQUENCE:0
+SUMMARY:Fra intellektuel forståelse til dybe indsigter-Online-2
+UID:3p-skolenfra-intellektuel-forstaaelse-til-dybe-indsigteronline22026-09-
+ 03t193000-00000002026-09-03t210000-0000000aktiviteter-1119@aktiviteter-3p-
+ skolen
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260615T160143Z
+DESCRIPTION:Firma: 3P Skolen\nKategori: Fra intellektuel forståelse til dy
+ be indsigter\nLokation: Online\nUnder kategori: 3\nBeskrivelse: Miriam & S
+ tinne\nKilde: Aktiviteter 1 række 120
+DTEND;TZID=Europe/Copenhagen:20260910T210000
+DTSTAMP:20260615T160143Z
+DTSTART;TZID=Europe/Copenhagen:20260910T193000
+LAST-MODIFIED:20260615T160143Z
+LOCATION:Online
+SEQUENCE:0
+SUMMARY:Fra intellektuel forståelse til dybe indsigter-Online-3
+UID:3p-skolenfra-intellektuel-forstaaelse-til-dybe-indsigteronline32026-09-
+ 10t193000-00000002026-09-10t210000-0000000aktiviteter-1120@aktiviteter-3p-
+ skolen
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260615T160143Z
+DESCRIPTION:Firma: 3P Skolen\nKategori: Fra intellektuel forståelse til dy
+ be indsigter\nLokation: Online\nUnder kategori: 4\nBeskrivelse: Miriam & S
+ tinne\nKilde: Aktiviteter 1 række 121
+DTEND;TZID=Europe/Copenhagen:20260917T210000
+DTSTAMP:20260615T160143Z
+DTSTART;TZID=Europe/Copenhagen:20260917T193000
+LAST-MODIFIED:20260615T160143Z
+LOCATION:Online
+SEQUENCE:0
+SUMMARY:Fra intellektuel forståelse til dybe indsigter-Online-4
+UID:3p-skolenfra-intellektuel-forstaaelse-til-dybe-indsigteronline42026-09-
+ 17t193000-00000002026-09-17t210000-0000000aktiviteter-1121@aktiviteter-3p-
+ skolen
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260615T160143Z
+DESCRIPTION:Firma: 3P Skolen\nKategori: Fra intellektuel forståelse til dy
+ be indsigter\nLokation: Online\nUnder kategori: 5\nBeskrivelse: Miriam & S
+ tinne\nKilde: Aktiviteter 1 række 122
+DTEND;TZID=Europe/Copenhagen:20260924T210000
+DTSTAMP:20260615T160143Z
+DTSTART;TZID=Europe/Copenhagen:20260924T193000
+LAST-MODIFIED:20260615T160143Z
+LOCATION:Online
+SEQUENCE:0
+SUMMARY:Fra intellektuel forståelse til dybe indsigter-Online-5
+UID:3p-skolenfra-intellektuel-forstaaelse-til-dybe-indsigteronline52026-09-
+ 24t193000-00000002026-09-24t210000-0000000aktiviteter-1122@aktiviteter-3p-
+ skolen
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260615T160143Z
+DESCRIPTION:Firma: 3P Skolen\nKategori: Fra intellektuel forståelse til dy
+ be indsigter\nLokation: Online\nUnder kategori: 6\nBeskrivelse: Miriam & S
+ tinne\nKilde: Aktiviteter 1 række 123
+DTEND;TZID=Europe/Copenhagen:20261001T210000
+DTSTAMP:20260615T160143Z
+DTSTART;TZID=Europe/Copenhagen:20261001T193000
+LAST-MODIFIED:20260615T160143Z
+LOCATION:Online
+SEQUENCE:0
+SUMMARY:Fra intellektuel forståelse til dybe indsigter-Online-6
+UID:3p-skolenfra-intellektuel-forstaaelse-til-dybe-indsigteronline62026-10-
+ 01t193000-00000002026-10-01t210000-0000000aktiviteter-1123@aktiviteter-3p-
+ skolen
+END:VEVENT
+END:VCALENDAR
