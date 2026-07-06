@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 METHOD:PUBLISH
 PRODID:-//DB Engineering//Aktiviteter 3P Skolen//DA
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
@@ -14,14 +14,14 @@ TZID:Europe/Copenhagen
 X-LIC-LOCATION:Europe/Copenhagen
 END:VTIMEZONE
 BEGIN:VEVENT
-CREATED:20260706T103116Z
+CREATED:20260706T103831Z
 DESCRIPTION:Firma: MSN\nKategori: Event\nLokation: Hotel Richmond\, KBH V\n
  Under kategori: 3PGC / 3PDK dag\nBeskrivelse: Hotel Richmond\, KBH V\nKild
  e: Aktiviteter 1 række 7
 DTEND;TZID=Europe/Copenhagen:20260601T163000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20260601T093000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Hotel Richmond\, KBH V
 SEQUENCE:0
 SUMMARY:Event-Hotel Richmond\, KBH V-3PGC / 3PDK dag
@@ -29,43 +29,41 @@ UID:msneventhotel-richmond-kbh-v3pgc-3pdk-dag2026-06-01t093000-00000002026-
  06-01t163000-0000000aktiviteter-17@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
-DESCRIPTION:Firma: MSN\nKategori: Online Kursus\nLokation: Online\nUnder ka
- tegori: Stop kampen mand\nBeskrivelse: #02.3\nKilde: Aktiviteter 1 række 
- 42
+CREATED:20260706T103831Z
+DESCRIPTION:Firma: MSN\nKategori: Stop kampen mand #3\nLokation: Online\nUn
+ der kategori: #02.3\nKilde: Aktiviteter 1 række 42
 DTEND;TZID=Europe/Copenhagen:20260906T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20260906T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
-SUMMARY:Online Kursus-Online-Stop kampen mand
-UID:msnonline-kursusonlinestop-kampen-mand2026-09-06t190000-00000002026-09-
- 06t203000-0000000aktiviteter-142@aktiviteter-3p-skolen
+SUMMARY:Stop kampen mand #3-Online-#02.3
+UID:msnstop-kampen-mand-3online02-32026-09-06t190000-00000002026-09-06t2030
+ 00-0000000aktiviteter-142@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
-DESCRIPTION:Firma: MSN\nKategori: Online Kursus\nLokation: Online\nUnder ka
- tegori: Stop kampen mand\nBeskrivelse: #02.1\nKilde: Aktiviteter 1 række 
- 34
+CREATED:20260706T103831Z
+DESCRIPTION:Firma: MSN\nKategori: Stop kampen mand #1\nLokation: Online\nUn
+ der kategori: #2.1\nKilde: Aktiviteter 1 række 34
 DTEND;TZID=Europe/Copenhagen:20260922T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20260922T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
-SUMMARY:Online Kursus-Online-Stop kampen mand
-UID:msnonline-kursusonlinestop-kampen-mand2026-09-22t190000-00000002026-09-
- 22t203000-0000000aktiviteter-134@aktiviteter-3p-skolen
+SUMMARY:Stop kampen mand #1-Online-#2.1
+UID:msnstop-kampen-mand-1online2-12026-09-22t190000-00000002026-09-22t20300
+ 0-0000000aktiviteter-134@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
+CREATED:20260706T103831Z
 DESCRIPTION:Firma: MSN\nKategori: Få det bedre ved at gøre mindre #1\nLok
  ation: Online\nUnder kategori: #6.1\nKilde: Aktiviteter 1 række 124
 DTEND;TZID=Europe/Copenhagen:20260923T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20260923T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Få det bedre ved at gøre mindre #1-Online-#6.1
@@ -73,13 +71,13 @@ UID:msnfaa-det-bedre-ved-at-goere-mindre-1online6-12026-09-23t190000-000000
  02026-09-23t203000-0000000aktiviteter-1124@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
+CREATED:20260706T103831Z
 DESCRIPTION:Firma: MSN\nKategori: Få det bedre ved at gøre mindre #6\nLok
  ation: Online\nUnder kategori: #6.6\nKilde: Aktiviteter 1 række 129
 DTEND;TZID=Europe/Copenhagen:20260928T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20260928T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Få det bedre ved at gøre mindre #6-Online-#6.6
@@ -87,28 +85,27 @@ UID:msnfaa-det-bedre-ved-at-goere-mindre-6online6-62026-09-28t190000-000000
  02026-09-28t203000-0000000aktiviteter-1129@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
-DESCRIPTION:Firma: MSN\nKategori: Online Kursus\nLokation: Online\nUnder ka
- tegori: Stop kampen mand\nBeskrivelse: #02.2\nKilde: Aktiviteter 1 række 
- 35
+CREATED:20260706T103831Z
+DESCRIPTION:Firma: MSN\nKategori: Stop kampen mand #2\nLokation: Online\nUn
+ der kategori: #02.2\nKilde: Aktiviteter 1 række 35
 DTEND;TZID=Europe/Copenhagen:20260929T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20260929T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
-SUMMARY:Online Kursus-Online-Stop kampen mand
-UID:msnonline-kursusonlinestop-kampen-mand2026-09-29t190000-00000002026-09-
- 29t203000-0000000aktiviteter-135@aktiviteter-3p-skolen
+SUMMARY:Stop kampen mand #2-Online-#02.2
+UID:msnstop-kampen-mand-2online02-22026-09-29t190000-00000002026-09-29t2030
+ 00-0000000aktiviteter-135@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
+CREATED:20260706T103831Z
 DESCRIPTION:Firma: MSN\nKategori: Få det bedre ved at gøre mindre #2\nLok
  ation: Online\nUnder kategori: #6.2\nKilde: Aktiviteter 1 række 125
 DTEND;TZID=Europe/Copenhagen:20260930T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20260930T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Få det bedre ved at gøre mindre #2-Online-#6.2
@@ -116,13 +113,13 @@ UID:msnfaa-det-bedre-ved-at-goere-mindre-2online6-22026-09-30t190000-000000
  02026-09-30t203000-0000000aktiviteter-1125@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
+CREATED:20260706T103831Z
 DESCRIPTION:Firma: MSN\nKategori: Få det bedre ved at gøre mindre #3\nLok
  ation: Online\nUnder kategori: #6.3\nKilde: Aktiviteter 1 række 126
 DTEND;TZID=Europe/Copenhagen:20261007T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20261007T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Få det bedre ved at gøre mindre #3-Online-#6.3
@@ -130,28 +127,27 @@ UID:msnfaa-det-bedre-ved-at-goere-mindre-3online6-32026-10-07t190000-000000
  02026-10-07t203000-0000000aktiviteter-1126@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
-DESCRIPTION:Firma: MSN\nKategori: Online Kursus\nLokation: Online\nUnder ka
- tegori: Stop kampen mand\nBeskrivelse: #02.4\nKilde: Aktiviteter 1 række 
- 44
+CREATED:20260706T103831Z
+DESCRIPTION:Firma: MSN\nKategori: Stop kampen mand #4\nLokation: Online\nUn
+ der kategori: #02.4\nKilde: Aktiviteter 1 række 44
 DTEND;TZID=Europe/Copenhagen:20261013T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20261013T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
-SUMMARY:Online Kursus-Online-Stop kampen mand
-UID:msnonline-kursusonlinestop-kampen-mand2026-10-13t190000-00000002026-10-
- 13t203000-0000000aktiviteter-144@aktiviteter-3p-skolen
+SUMMARY:Stop kampen mand #4-Online-#02.4
+UID:msnstop-kampen-mand-4online02-42026-10-13t190000-00000002026-10-13t2030
+ 00-0000000aktiviteter-144@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
+CREATED:20260706T103831Z
 DESCRIPTION:Firma: MSN\nKategori: Få det bedre ved at gøre mindre #4\nLok
  ation: Online\nUnder kategori: #6.4\nKilde: Aktiviteter 1 række 127
 DTEND;TZID=Europe/Copenhagen:20261014T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20261014T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Få det bedre ved at gøre mindre #4-Online-#6.4
@@ -159,13 +155,13 @@ UID:msnfaa-det-bedre-ved-at-goere-mindre-4online6-42026-10-14t190000-000000
  02026-10-14t203000-0000000aktiviteter-1127@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
+CREATED:20260706T103831Z
 DESCRIPTION:Firma: MSN\nKategori: Få det bedre ved at gøre mindre #5\nLok
  ation: Online\nUnder kategori: #6.5\nKilde: Aktiviteter 1 række 128
 DTEND;TZID=Europe/Copenhagen:20261021T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20261021T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Få det bedre ved at gøre mindre #5-Online-#6.5
@@ -173,63 +169,59 @@ UID:msnfaa-det-bedre-ved-at-goere-mindre-5online6-52026-10-21t190000-000000
  02026-10-21t203000-0000000aktiviteter-1128@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
-DESCRIPTION:Firma: MSN\nKategori: Online Kursus\nLokation: Online\nUnder ka
- tegori: Stop kampen mand\nBeskrivelse: #03.1\nKilde: Aktiviteter 1 række 
- 55
+CREATED:20260706T103831Z
+DESCRIPTION:Firma: MSN\nKategori: Stop kampen mand #1\nLokation: Online\nUn
+ der kategori: #03.1\nKilde: Aktiviteter 1 række 55
 DTEND;TZID=Europe/Copenhagen:20261105T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20261105T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
-SUMMARY:Online Kursus-Online-Stop kampen mand
-UID:msnonline-kursusonlinestop-kampen-mand2026-11-05t190000-00000002026-11-
- 05t203000-0000000aktiviteter-155@aktiviteter-3p-skolen
+SUMMARY:Stop kampen mand #1-Online-#03.1
+UID:msnstop-kampen-mand-1online03-12026-11-05t190000-00000002026-11-05t2030
+ 00-0000000aktiviteter-155@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
-DESCRIPTION:Firma: MSN\nKategori: Online Kursus\nLokation: Online\nUnder ka
- tegori: Stop kampen mand\nBeskrivelse: #03.2\nKilde: Aktiviteter 1 række 
- 58
+CREATED:20260706T103831Z
+DESCRIPTION:Firma: MSN\nKategori: Stop kampen mand #2\nLokation: Online\nUn
+ der kategori: #03.2\nKilde: Aktiviteter 1 række 58
 DTEND;TZID=Europe/Copenhagen:20261112T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20261112T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
-SUMMARY:Online Kursus-Online-Stop kampen mand
-UID:msnonline-kursusonlinestop-kampen-mand2026-11-12t190000-00000002026-11-
- 12t203000-0000000aktiviteter-158@aktiviteter-3p-skolen
+SUMMARY:Stop kampen mand #2-Online-#03.2
+UID:msnstop-kampen-mand-2online03-22026-11-12t190000-00000002026-11-12t2030
+ 00-0000000aktiviteter-158@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
-DESCRIPTION:Firma: MSN\nKategori: Online Kursus\nLokation: Online\nUnder ka
- tegori: Stop kampen mand\nBeskrivelse: #03.3\nKilde: Aktiviteter 1 række 
- 64
+CREATED:20260706T103831Z
+DESCRIPTION:Firma: MSN\nKategori: Stop kampen mand #3\nLokation: Online\nUn
+ der kategori: #03.3\nKilde: Aktiviteter 1 række 64
 DTEND;TZID=Europe/Copenhagen:20261119T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20261119T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
-SUMMARY:Online Kursus-Online-Stop kampen mand
-UID:msnonline-kursusonlinestop-kampen-mand2026-11-19t190000-00000002026-11-
- 19t203000-0000000aktiviteter-164@aktiviteter-3p-skolen
+SUMMARY:Stop kampen mand #3-Online-#03.3
+UID:msnstop-kampen-mand-3online03-32026-11-19t190000-00000002026-11-19t2030
+ 00-0000000aktiviteter-164@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260706T103116Z
-DESCRIPTION:Firma: MSN\nKategori: Online Kursus\nLokation: Online\nUnder ka
- tegori: Stop kampen mand\nBeskrivelse: #03.4\nKilde: Aktiviteter 1 række 
- 69
+CREATED:20260706T103831Z
+DESCRIPTION:Firma: MSN\nKategori: Stop kampen mand #4\nLokation: Online\nUn
+ der kategori: #03.4\nKilde: Aktiviteter 1 række 69
 DTEND;TZID=Europe/Copenhagen:20261126T203000
-DTSTAMP:20260706T103116Z
+DTSTAMP:20260706T103831Z
 DTSTART;TZID=Europe/Copenhagen:20261126T190000
-LAST-MODIFIED:20260706T103116Z
+LAST-MODIFIED:20260706T103831Z
 LOCATION:Online
 SEQUENCE:0
-SUMMARY:Online Kursus-Online-Stop kampen mand
-UID:msnonline-kursusonlinestop-kampen-mand2026-11-26t190000-00000002026-11-
- 26t203000-0000000aktiviteter-169@aktiviteter-3p-skolen
+SUMMARY:Stop kampen mand #4-Online-#03.4
+UID:msnstop-kampen-mand-4online03-42026-11-26t190000-00000002026-11-26t2030
+ 00-0000000aktiviteter-169@aktiviteter-3p-skolen
 END:VEVENT
 END:VCALENDAR
