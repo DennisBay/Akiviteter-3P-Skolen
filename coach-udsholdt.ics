@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 METHOD:PUBLISH
 PRODID:-//DB Engineering//Aktiviteter 3P Skolen//DA
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
@@ -14,14 +14,14 @@ TZID:Europe/Copenhagen
 X-LIC-LOCATION:Europe/Copenhagen
 END:VTIMEZONE
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
  \nUnder kategori: Eksamenscafé\nBeskrivelse: Dorte\nKilde: Aktiviteter 1 
  række 5
 DTEND;TZID=Europe/Copenhagen:20260520T210000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20260520T193000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-Eksamenscafé
@@ -29,13 +29,13 @@ UID:3p-skolencoachuddannelseudsholdteksamenscafé2026-05-20t193000-00000002
  026-05-20t210000-0000000aktiviteter-15@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Jylland\
  nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 27
 DTEND;TZID=Europe/Copenhagen:20260820T190000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20260820T160000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Jylland
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Jylland-3. modul
@@ -43,13 +43,13 @@ UID:3p-skolencoachuddannelsejylland3-modul2026-08-20t160000-00000002026-08-
  20t190000-0000000aktiviteter-127@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Jylland\
  nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 28
 DTEND;TZID=Europe/Copenhagen:20260821T170000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20260821T093000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Jylland
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Jylland-3. modul
@@ -57,13 +57,13 @@ UID:3p-skolencoachuddannelsejylland3-modul2026-08-21t093000-00000002026-08-
  21t170000-0000000aktiviteter-128@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Jylland\
  nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 29
 DTEND;TZID=Europe/Copenhagen:20260822T170000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20260822T093000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Jylland
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Jylland-3. modul
@@ -71,283 +71,283 @@ UID:3p-skolencoachuddannelsejylland3-modul2026-08-22t093000-00000002026-08-
  22t170000-0000000aktiviteter-129@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 1. modul\nKilde: Aktiviteter 1 række 63
+ \nUnder kategori: 1. modul\nKilde: Aktiviteter 1 række 62
 DTEND;TZID=Europe/Copenhagen:20261119T180000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20261119T160000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-1. modul
 UID:3p-skolencoachuddannelseudsholdt1-modul2026-11-19t160000-00000002026-11
- -19t180000-0000000aktiviteter-163@aktiviteter-3p-skolen
+ -19t180000-0000000aktiviteter-162@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 1. modul\nKilde: Aktiviteter 1 række 65
+ \nUnder kategori: 1. modul\nKilde: Aktiviteter 1 række 64
 DTEND;TZID=Europe/Copenhagen:20261120T173000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20261120T093000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-1. modul
 UID:3p-skolencoachuddannelseudsholdt1-modul2026-11-20t093000-00000002026-11
- -20t173000-0000000aktiviteter-165@aktiviteter-3p-skolen
+ -20t173000-0000000aktiviteter-164@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 1. modul\nKilde: Aktiviteter 1 række 66
+ \nUnder kategori: 1. modul\nKilde: Aktiviteter 1 række 65
 DTEND;TZID=Europe/Copenhagen:20261121T150000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20261121T093000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-1. modul
 UID:3p-skolencoachuddannelseudsholdt1-modul2026-11-21t093000-00000002026-11
- -21t150000-0000000aktiviteter-166@aktiviteter-3p-skolen
+ -21t150000-0000000aktiviteter-165@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Online\n
- Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 71
+ Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 70
 DTEND;TZID=Europe/Copenhagen:20261209T210000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20261209T193000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Online-Coachingcafé
 UID:3p-skolencoachuddannelseonlinecoachingcafé2026-12-09t193000-0000000202
- 6-12-09t210000-0000000aktiviteter-171@aktiviteter-3p-skolen
+ 6-12-09t210000-0000000aktiviteter-170@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Online\n
- Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 75
+ Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 74
 DTEND;TZID=Europe/Copenhagen:20270106T210000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270106T193000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Online-Coachingcafé
 UID:3p-skolencoachuddannelseonlinecoachingcafé2027-01-06t193000-0000000202
- 7-01-06t210000-0000000aktiviteter-175@aktiviteter-3p-skolen
+ 7-01-06t210000-0000000aktiviteter-174@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 2. modul\nKilde: Aktiviteter 1 række 76
+ \nUnder kategori: 2. modul\nKilde: Aktiviteter 1 række 75
 DTEND;TZID=Europe/Copenhagen:20270114T180000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270114T160000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-2. modul
 UID:3p-skolencoachuddannelseudsholdt2-modul2027-01-14t160000-00000002027-01
- -14t180000-0000000aktiviteter-176@aktiviteter-3p-skolen
+ -14t180000-0000000aktiviteter-175@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 2. modul\nKilde: Aktiviteter 1 række 77
+ \nUnder kategori: 2. modul\nKilde: Aktiviteter 1 række 76
 DTEND;TZID=Europe/Copenhagen:20270115T173000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270115T093000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-2. modul
 UID:3p-skolencoachuddannelseudsholdt2-modul2027-01-15t093000-00000002027-01
- -15t173000-0000000aktiviteter-177@aktiviteter-3p-skolen
+ -15t173000-0000000aktiviteter-176@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 2. modul\nKilde: Aktiviteter 1 række 78
+ \nUnder kategori: 2. modul\nKilde: Aktiviteter 1 række 77
 DTEND;TZID=Europe/Copenhagen:20270116T150000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270116T093000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-2. modul
 UID:3p-skolencoachuddannelseudsholdt2-modul2027-01-16t093000-00000002027-01
- -16t150000-0000000aktiviteter-178@aktiviteter-3p-skolen
+ -16t150000-0000000aktiviteter-177@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Online\n
- Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 79
+ Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 78
 DTEND;TZID=Europe/Copenhagen:20270203T210000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270203T193000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Online-Coachingcafé
 UID:3p-skolencoachuddannelseonlinecoachingcafé2027-02-03t193000-0000000202
- 7-02-03t210000-0000000aktiviteter-179@aktiviteter-3p-skolen
+ 7-02-03t210000-0000000aktiviteter-178@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Online\n
- Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 80
+ Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 79
 DTEND;TZID=Europe/Copenhagen:20270303T210000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270303T193000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Online-Coachingcafé
 UID:3p-skolencoachuddannelseonlinecoachingcafé2027-03-03t193000-0000000202
- 7-03-03t210000-0000000aktiviteter-180@aktiviteter-3p-skolen
+ 7-03-03t210000-0000000aktiviteter-179@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 81
+ \nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 80
 DTEND;TZID=Europe/Copenhagen:20270311T180000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270311T160000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-3. modul
 UID:3p-skolencoachuddannelseudsholdt3-modul2027-03-11t160000-00000002027-03
- -11t180000-0000000aktiviteter-181@aktiviteter-3p-skolen
+ -11t180000-0000000aktiviteter-180@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 82
+ \nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 81
 DTEND;TZID=Europe/Copenhagen:20270312T173000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270312T093000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-3. modul
 UID:3p-skolencoachuddannelseudsholdt3-modul2027-03-12t093000-00000002027-03
- -12t173000-0000000aktiviteter-182@aktiviteter-3p-skolen
+ -12t173000-0000000aktiviteter-181@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 83
+ \nUnder kategori: 3. modul\nKilde: Aktiviteter 1 række 82
 DTEND;TZID=Europe/Copenhagen:20270313T150000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270313T093000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-3. modul
 UID:3p-skolencoachuddannelseudsholdt3-modul2027-03-13t093000-00000002027-03
- -13t150000-0000000aktiviteter-183@aktiviteter-3p-skolen
+ -13t150000-0000000aktiviteter-182@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Online\n
- Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 87
+ Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 86
 DTEND;TZID=Europe/Copenhagen:20270331T210000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270331T193000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Online-Coachingcafé
 UID:3p-skolencoachuddannelseonlinecoachingcafé2027-03-31t193000-0000000202
- 7-03-31t210000-0000000aktiviteter-187@aktiviteter-3p-skolen
+ 7-03-31t210000-0000000aktiviteter-186@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Online\n
- Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 91
+ Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 90
 DTEND;TZID=Europe/Copenhagen:20270428T210000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270428T193000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Online-Coachingcafé
 UID:3p-skolencoachuddannelseonlinecoachingcafé2027-04-28t193000-0000000202
- 7-04-28t210000-0000000aktiviteter-191@aktiviteter-3p-skolen
+ 7-04-28t210000-0000000aktiviteter-190@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 92
+ \nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 91
 DTEND;TZID=Europe/Copenhagen:20270506T180000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270506T160000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-4. modul
 UID:3p-skolencoachuddannelseudsholdt4-modul2027-05-06t160000-00000002027-05
- -06t180000-0000000aktiviteter-192@aktiviteter-3p-skolen
+ -06t180000-0000000aktiviteter-191@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 93
+ \nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 92
 DTEND;TZID=Europe/Copenhagen:20270507T173000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270507T093000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-4. modul
 UID:3p-skolencoachuddannelseudsholdt4-modul2027-05-07t093000-00000002027-05
- -07t173000-0000000aktiviteter-193@aktiviteter-3p-skolen
+ -07t173000-0000000aktiviteter-192@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Udsholdt
- \nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 94
+ \nUnder kategori: 4. modul\nKilde: Aktiviteter 1 række 93
 DTEND;TZID=Europe/Copenhagen:20270508T150000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270508T093000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Udsholdt
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Udsholdt-4. modul
 UID:3p-skolencoachuddannelseudsholdt4-modul2027-05-08t093000-00000002027-05
- -08t150000-0000000aktiviteter-194@aktiviteter-3p-skolen
+ -08t150000-0000000aktiviteter-193@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Online\n
- Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 98
+ Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 97
 DTEND;TZID=Europe/Copenhagen:20270526T210000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270526T193000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Online-Coachingcafé
 UID:3p-skolencoachuddannelseonlinecoachingcafé2027-05-26t193000-0000000202
- 7-05-26t210000-0000000aktiviteter-198@aktiviteter-3p-skolen
+ 7-05-26t210000-0000000aktiviteter-197@aktiviteter-3p-skolen
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20260707T083429Z
+CREATED:20260711T071644Z
 DESCRIPTION:Firma: 3P Skolen\nKategori: Coachuddannelse\nLokation: Online\n
- Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 102
+ Under kategori: Coachingcafé\nKilde: Aktiviteter 1 række 101
 DTEND;TZID=Europe/Copenhagen:20270616T210000
-DTSTAMP:20260707T083429Z
+DTSTAMP:20260711T071644Z
 DTSTART;TZID=Europe/Copenhagen:20270616T193000
-LAST-MODIFIED:20260707T083429Z
+LAST-MODIFIED:20260711T071644Z
 LOCATION:Online
 SEQUENCE:0
 SUMMARY:Coachuddannelse-Online-Coachingcafé
 UID:3p-skolencoachuddannelseonlinecoachingcafé2027-06-16t193000-0000000202
- 7-06-16t210000-0000000aktiviteter-1102@aktiviteter-3p-skolen
+ 7-06-16t210000-0000000aktiviteter-1101@aktiviteter-3p-skolen
 END:VEVENT
 END:VCALENDAR
